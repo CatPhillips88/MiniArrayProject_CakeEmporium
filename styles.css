@@ -1,0 +1,25 @@
+body {
+    background-image: url(https://cdn5.vectorstock.com/i/1000x1000/37/14/cake-seamless-pattern-vector-2503714.jpg);
+    font-family: 'Bebas Neue', cursive;
+}
+
+.title h1 {
+    color: rgb(240, 128, 128);
+    background: rgba(255, 255, 255, 0.712);
+    font-size: 80px;
+    text-align: center;   
+}
+
+.cakes {
+    height: 400px;
+    width: 800px;
+    background-color: rgba(240, 128, 128, 0.616);
+    margin: auto;
+}
+
+.cakes h2 {
+    color: rgb(255, 255, 255);
+    font-size: 60px;
+    text-align: center;
+}
+
