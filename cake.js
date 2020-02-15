@@ -8,7 +8,7 @@ let showAvailable = document.getElementById('takeYourPick');
 
 // BRACKET NOTATION WITH INDEX POSITION TO CHANGE ARRAY VALUE OF CAKE
 
-availableCakes[1] = ' Millie-Feuille';
+availableCakes[1] = ' Mille-Feuille';
 
 // textContent RETURNS STRING TEXT CONTENT FROM THE ARRAY 
 // TO SHOW ALL ARRAY VALUES, DON'T USE BRACKET NOTATION
